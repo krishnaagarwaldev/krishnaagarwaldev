@@ -23,7 +23,13 @@
 - Matplotlib  
 - Seaborn  
 - Streamlit  
-- Git  
+- Git
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
+![Data Science](https://img.shields.io/badge/Data%20Science-yellow)
+![NLP](https://img.shields.io/badge/NLP-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-red)
 
 ---
 
