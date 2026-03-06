@@ -14,18 +14,7 @@
 
 ---
 
-## 🛠 Tech Stack
-
-- Python  
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- Matplotlib  
-- Seaborn  
-- Streamlit  
-- Git
-
-## 💻 Technologies & Tools
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-purple)
@@ -57,6 +46,7 @@ Analyzes job market data and recommends skills or roles based on trends.
 
 🔹 **AI Research Bot**  
 AI tool that helps summarize and analyze research papers.
+
 ---
 
 ## 🌐 Connect With Me
