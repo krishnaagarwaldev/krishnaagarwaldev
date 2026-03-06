@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Krishna
 
-<!--
-**krishnaagarwaldev/krishnaagarwaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student in Artificial Intelligence & Data Science  
+🏫 IIITDM Kurnool, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning **Machine Learning and Deep Learning**
+- 📊 Interested in **Data Science, NLP and AI applications**
+- 🤖 Building practical **AI and ML projects**
+- 📚 Exploring **Generative AI and Research Tools**
+
+---
+
+## 🛠 Tech Stack
+
+- Python  
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- Matplotlib  
+- Seaborn  
+- Streamlit  
+- Git  
+
+---
+
+## 📌 Projects
+
+🔹 **Email Spam Classifier**  
+Machine Learning model that classifies emails as spam or not spam using NLP techniques.
+
+🔹 **Job Analysis & Prediction Recommender**  
+Analyzes job market data and recommends skills or roles based on trends.
+
+🔹 **AI Research Bot**  
+AI tool that helps summarize and analyze research papers.
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn - https://www.linkedin.com/in/krishnaagarwalds/
