@@ -45,10 +45,13 @@ Developed an AI-powered research assistant capable of summarizing academic paper
 🔹 **Email Spam Classifier**  
 Technologies: Python, Scikit-learn, TF-IDF, NLTK, Streamlit
 Machine Learning model that classifies emails as spam or not spam using NLP techniques.
+https://email-sms-spam-classifier7.streamlit.app/
+[App Link](https://email-sms-spam-classifier7.streamlit.app/)
 
 🔹 **Job Analysis & Prediction Recommender**  
 Python, Scikit-learn, XGBoost, TF-IDF, Streamlit, Plotly
 Analyzes job market data and recommends skills or roles based on trends.
+[App Link](https://job-recommendation-system-and-salary-prediction-using-ml.streamlit.app/)
 
 ---
 
