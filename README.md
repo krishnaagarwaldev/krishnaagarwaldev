@@ -40,7 +40,8 @@
 
 🔹 **Research Paper Companion – LLM Powered Research Assistant with Document Chat**   
 Technologies: Python, Streamlit, FAISS, Sentence Transformers, Llama-3-8B, HuggingFace    
-Developed an AI-powered research assistant capable of summarizing academic papers and enabling interactive question answering over documents.   
+Developed an AI-powered research assistant capable of summarizing academic papers and enabling interactive question answering over documents.  
+[Project Link](https://ai-research-paper-summarizer-assistant.streamlit.app/)   
 
 🔹 **Email Spam Classifier**    
 Technologies: Python, Scikit-learn, TF-IDF, NLTK, Streamlit   
