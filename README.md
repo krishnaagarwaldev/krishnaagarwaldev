@@ -38,14 +38,17 @@
 
 ## 📌 Projects
 
+🔹 **Research Paper Companion – LLM Powered Research Assistant with Document Chat**
+Technologies: Python, Streamlit, FAISS, Sentence Transformers, Llama-3-8B, HuggingFace
+Developed an AI-powered research assistant capable of summarizing academic papers and enabling interactive question answering over documents.
+
 🔹 **Email Spam Classifier**  
+Technologies: Python, Scikit-learn, TF-IDF, NLTK, Streamlit
 Machine Learning model that classifies emails as spam or not spam using NLP techniques.
 
 🔹 **Job Analysis & Prediction Recommender**  
+Python, Scikit-learn, XGBoost, TF-IDF, Streamlit, Plotly
 Analyzes job market data and recommends skills or roles based on trends.
-
-🔹 **AI Research Bot**  
-AI tool that helps summarize and analyze research papers.
 
 ---
 
