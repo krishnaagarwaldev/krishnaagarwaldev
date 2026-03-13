@@ -1,8 +1,5 @@
 # Hi 👋 I'm Krishna
 
-🎓 BTech Student in Artificial Intelligence & Data Science  
-🏫 IIITDM Kurnool, India  
-
 ---
 
 ## 🚀 About Me
@@ -33,25 +30,6 @@
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![GitHub](https://img.shields.io/badge/GitHub-grey)
-
----
-
-## 📌 Projects
-
-🔹 **Research Paper Companion – LLM Powered Research Assistant with Document Chat**   
-Technologies: Python, Streamlit, FAISS, Sentence Transformers, Llama-3-8B, HuggingFace    
-Developed an AI-powered research assistant capable of summarizing academic papers and enabling interactive question answering over documents.  
-[Project Link](https://ai-research-paper-summarizer-assistant.streamlit.app/)   
-
-🔹 **Email Spam Classifier**    
-Technologies: Python, Scikit-learn, TF-IDF, NLTK, Streamlit   
-Machine Learning model that classifies emails as spam or not spam using NLP techniques.   
-[Project Link](https://email-sms-spam-classifier7.streamlit.app/)
-
-🔹 **Job Analysis & Prediction Recommender**    
-Technologies: Python, Scikit-learn, XGBoost, TF-IDF, Streamlit, Plotly    
-Analyzes job market data and recommends skills or roles based on trends.    
-[Project Link](https://job-recommendation-system-and-salary-prediction-using-ml.streamlit.app/)
 
 ---
 
