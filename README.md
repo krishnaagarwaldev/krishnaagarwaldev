@@ -32,7 +32,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-grey)
 
 ---
-
-## 🌐 Connect With Me
-
-- LinkedIn - https://www.linkedin.com/in/krishnaagarwalds/
